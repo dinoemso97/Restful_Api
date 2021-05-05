@@ -1,6 +1,6 @@
 PHP(PDO) Restful API with MySQL database.
-This API it is use to easily handle with data in database and values to insert in database.
-You can read,create,update and delete data in database and I use Postman software to use this API.
+This API use to easily handle with data in database and values to insert in database.
+You can read,create,update and delete data in database and for this I use Postman software(check "images" file).
 
 DATABASE: 
 In file "database" you can see database "restfulapi.sql". 
